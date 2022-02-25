@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @govindaghr
-- 👀 I’m interested in Backend Programming and ML...
-- 🌱 I’m currently learning Python 3.
+- 👀 I’m interested in Backend and fullstack development.
 - 💞️ I’m looking to collaborate on learning ML.
 - 📫 How to reach me? Mail to Govindaghr@yahoo.com

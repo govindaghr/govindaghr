@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @govindaghr
 - 👀 I’m interested in Backend and fullstack development.
 - 💞️ I’m looking to collaborate on learning ML.
-- 📫 How to reach me? Mail to Govindaghr@yahoo.com
+- 📫 How to reach me? Mail to govindaghr@yahoo.com

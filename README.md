@@ -2,3 +2,4 @@
 - 👀 I’m interested in Backend and fullstack development.
 - 💞️ I’m looking to collaborate on learning ML.
 - 📫 How to reach me? Mail to govindaghr@yahoo.com
+- view my cv at https://govindaghr.github.io/
